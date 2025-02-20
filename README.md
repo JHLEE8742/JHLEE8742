@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JongHeok_Dev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=개발자가%20꿈입니다!&descAlignY=60&descAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JongHyeok_Dev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=개발자가%20꿈입니다!&descAlignY=60&descAlign=50"/>
 </p>
 
 
